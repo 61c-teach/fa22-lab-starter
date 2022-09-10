@@ -22,6 +22,7 @@ main:
     addi a0, x0, 10
     ecall # Exit
 
+# factorial takes one argument:
 # a0 contains the number which we want to compute the factorial of
 # The return value should be stored in a0
 factorial:
