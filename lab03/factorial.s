@@ -22,10 +22,10 @@ main:
     addi a0, x0, 10
     ecall # Exit
 
+# a0 contains the number which we want to compute the factorial of
+# The return value should be stored in a0
 factorial:
     # YOUR CODE HERE
-
-    # Make sure to put your return value in register a0
 
     # This is how you return from a function. You'll learn more about this later.
     # This should be the last line in your program.
