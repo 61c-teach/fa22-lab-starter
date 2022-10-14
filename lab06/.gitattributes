@@ -1,2 +1,2 @@
-/tests/reference-output/*.out text eol=lf
-/tests/student-output/*.out text eol=lf
+/tests/reference-output/*.csv text eol=lf
+/tests/student-output/*.csv text eol=lf
